@@ -18,7 +18,7 @@
 ## Working
 
 #### Architecture
-<img src="https://user-images.githubusercontent.com/81709725/128973838-3dd4cd3e-d7f3-4173-8b3b-63a869a0abf7.png" width=800px height=500px />
+<img src="https://user-images.githubusercontent.com/81709725/128973838-3dd4cd3e-d7f3-4173-8b3b-63a869a0abf7.png" />
 
 #### Flowchart
 <img src="https://user-images.githubusercontent.com/81709725/128974195-814f3aa3-2097-4b32-8035-c29c09135a77.png" width=800px />
